@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525092302197",
+    "firebase_url": "https://smarttrolly-9ed88-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smarttrolly-9ed88",
+    "storage_bucket": "smarttrolly-9ed88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525092302197:android:3622bfdca5b5f1acb8f73c",
+        "android_client_info": {
+          "package_name": "com.sih.trolly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525092302197-o2o1tjm2it7supfgehducpsh2033dqvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sih.trolly",
+            "certificate_hash": "b0dc5fc24cfc188ac0afcae623e72a1088d99bb6"
+          }
+        },
+        {
+          "client_id": "525092302197-3jmptshbk4oaqveefpko73p2ok0rtlv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOmBHzHgmC6ADV-UQX-A5KrYM3rHJeieQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525092302197-3jmptshbk4oaqveefpko73p2ok0rtlv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
